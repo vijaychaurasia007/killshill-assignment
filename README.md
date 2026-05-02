@@ -244,3 +244,4 @@ killshill/
 
 ROI is always shown to 2 decimal places (e.g. `+3.60%`, `-1.24%`). For OPEN signals, this is live ROI based on current Binance price. For resolved signals, it's the `realized_roi` locked in at resolution time.
 # killshill-assignment
+# killshill-assignment
